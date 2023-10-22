@@ -1,13 +1,19 @@
 .justbackground{
     background-color: purple;
     width: 100px;
-    height: 230px;
-    margin-top: 140px;
-    
+    height: 300px;
+    margin-top: 120px;
 
+
+}
+.aaa{
+    display: none;
 }
 .containerone{
     display: flex;
+}
+.ButtonOne{
+    background-color: purple;
 }
 h1{
     margin-top: 180px;
@@ -16,29 +22,34 @@ h1{
 .pharagraphOne{
     margin-left: 100px;
 }
-.ButtonOne{
-    margin-left: 100px;
-}
-.firstpicture{
-    width: 20%;
-    height: 40;
-    margin-left: 50px;
+
+.containerone img{
+    width: 30%;
+    height: auto;
+    margin-left: 20px;
+    
     
 }
 
-.secondpicture{
+.containertwo img{
+    width: 30%;
+    height: auto;
+    margin-top: 10%;
     margin-left: 300px;
-
+    
+    
 }
 .containertwo{
     display: flex;
 }
-.Pharagraphtwo{
-    color:aqua; 
-    margin-left: 400px;
-}
+
 h2{
-    margin-top: 180px;
+    
+    margin-left: 100px;
+}
+.paragraph{
+    color:rgb(59, 59, 59); 
+    margin-top: 170px;
     margin-left: 100px;
 }
 .ButtonTwo{
