@@ -1,0 +1,46 @@
+.justbackground{
+    background-color: purple;
+    width: 100px;
+    height: 230px;
+    margin-top: 140px;
+    
+
+}
+.containerone{
+    display: flex;
+}
+h1{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.pharagraphOne{
+    margin-left: 100px;
+}
+.ButtonOne{
+    margin-left: 100px;
+}
+.firstpicture{
+    width: 20%;
+    height: 40;
+    margin-left: 50px;
+    
+}
+
+.secondpicture{
+    margin-left: 300px;
+
+}
+.containertwo{
+    display: flex;
+}
+.Pharagraphtwo{
+    color:aqua; 
+    margin-left: 400px;
+}
+h2{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.ButtonTwo{
+    margin-left: 100px;
+}
